@@ -1,2 +1,2 @@
-# SkzMr.github.io
+# SkzCode.github.io
 site html
